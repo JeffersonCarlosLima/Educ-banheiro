@@ -16,6 +16,9 @@
     font-size: 38px;
     padding: 16px 16px;
 }
+p{
+    color:white;
+}
 
 @media screen and (min-width: 728px) {
     .ilustracao {
