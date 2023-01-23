@@ -15,9 +15,14 @@
     padding: 16px 16px;
 }
 
-@media screen and (min-width: 425px) {
+@media screen and (max-width: 728px) {
     .ilustracao {
         width: 70%;
+    }
+    .texto{
+        display: flex;
+        font-size: 32px;
+        width: 100%;
     }
 }
 
