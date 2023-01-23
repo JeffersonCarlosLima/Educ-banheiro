@@ -19,6 +19,7 @@
 
 @media screen and (max-width: 728px) {
     .ilustracao {
+        display: flex;
         width: 60%;
     }
     .texto{
