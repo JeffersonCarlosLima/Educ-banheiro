@@ -26,6 +26,11 @@
     }
 }
 
+@media screen and (max-width: 475px) {
+    .ilustracao{
+        width: 350px;
+    }
+}
 .rodape {
     width: 100%;
     height: 40px;
