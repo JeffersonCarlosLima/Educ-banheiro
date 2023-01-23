@@ -27,7 +27,7 @@
     }
 }
 
-@media screen and (max-width: 475px) {
+@media screen and (min-width: 475px) {
     .ilustracao{
         display: flex;
         width: 350px;
